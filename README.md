@@ -1,2 +1,3 @@
-# -app-
-Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+作者只提供服务器作为中转使用，使用者如何使用与作者无关，造成的一切后果与作者无关！！！
+可自定义服务器，建议自行搭建ftp服务器
+作者的服务器很垃圾，还经常被攻击，连不上很正常
